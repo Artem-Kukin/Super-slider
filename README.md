@@ -1,4 +1,4 @@
-#Super slider
+# Super slider
 
 ![](./images/readme-banner.png)
 
